@@ -10,6 +10,7 @@ Objective: create a code in C that solves the challenge tower of hanoi in the fe
 
 [pdf with description of the challenge](https://github.com/alexandrejastrow/hanoiTower/blob/master/ED_Trab2.pdf)
 #
+#### image demosntration
 ![image demosntration](https://github.com/alexandrejastrow/hanoiTower/blob/master/img/Tower_of_Hanoi.jpeg)
 
 
