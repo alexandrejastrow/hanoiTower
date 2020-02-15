@@ -1,9 +1,9 @@
 # hanoi of Tower
-#### C implementation of the Hanoi Tower challenge.
+C implementation of the Hanoi Tower challenge.
 
-# Createde By
+#### Createde By
 
-## Alexandre Jastrow da Cruz
+##### Alexandre Jastrow da Cruz
 
 Objective: create a code in C that solves the challenge tower of hanoi in the fewest possible steps, using only pure C and stack created by the student.
 
