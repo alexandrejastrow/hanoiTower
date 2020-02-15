@@ -35,6 +35,7 @@ gcc -Wall -pedantic -o main main.c stack.c tower.c
 # results on my computer:
 
  Number of disks     Real time
+```html
 >  3                   0m 0.000s
 >  4                   0m 0.000s
 >  5                   0m 0.000s
@@ -66,3 +67,4 @@ gcc -Wall -pedantic -o main main.c stack.c tower.c
 >  31                  3m 19.978s
 >  32                  6m 37.111s
 >  33                  13m 16.998s
+```
