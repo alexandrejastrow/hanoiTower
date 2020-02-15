@@ -1,6 +1,6 @@
 # hanoi of Tower
 C implementation of the Hanoi Tower challenge.
-#
+
 #### Createde By
 
 ##### Alexandre Jastrow da Cruz
@@ -10,7 +10,7 @@ Objective: create a code in C that solves the challenge tower of hanoi in the fe
 
 [pdf with description of the challenge](https://github.com/alexandrejastrow/hanoiTower/blob/master/ED_Trab2.pdf)
 #
-#### image demonstration
+#### Image demonstration
 ![image demonstration](https://github.com/alexandrejastrow/hanoiTower/blob/master/img/Tower_of_Hanoi.jpeg)
 
 
